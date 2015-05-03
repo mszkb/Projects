@@ -17,6 +17,8 @@ print("Constant from python module math.py: %f" % math.pi)
 import decimal
 
 
+# Source: http://code.activestate.com/recipes/578478-archimedes-method-for-pi-arbitrary-precision/
+
 def arch_pi(precision=30):
     # x: circumference of the circumscribed (outside) regular polygon
     # y: circumference of the inscribed (inside) regular polygon
