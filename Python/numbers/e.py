@@ -14,6 +14,8 @@ import math
 print("Constant from python module math.py: %f" % math.e)
 
 
+# Source: http://stackoverflow.com/a/3559567
+
 from decimal import *
 
 
