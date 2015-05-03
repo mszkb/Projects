@@ -1,6 +1,15 @@
 __author__ = 'Martin'
 
 
+"""
+
+Have the user enter a number and
+find all Prime Factors (if there
+are any) and display them.
+
+"""
+
+
 # Source: http://stackoverflow.com/a/16996439
 
 def primes(n):

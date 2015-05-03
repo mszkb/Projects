@@ -1,6 +1,14 @@
 __author__ = 'Martin'
 
 
+"""
+
+Enter a number and have the program
+generate the Fibonacci sequence to
+that number or to the Nth number.
+
+"""
+
 # Source http://en.literateprograms.org/Fibonacci_numbers_%28Python%29
 
 def fib(n):
